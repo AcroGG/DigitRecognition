@@ -1,0 +1,3 @@
+2 guessed 3
+8 guessed 3
+all guesses after 9 fail
